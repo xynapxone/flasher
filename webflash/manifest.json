@@ -1,5 +1,5 @@
 {
-    "name": "GCN Vendo Firmware Flasher - Kitifi",
+    "name": "GCN Kitifi Vendo Firmware",
     "new_install_prompt_erase": true,
     "builds": [
       {
