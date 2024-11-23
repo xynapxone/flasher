@@ -1,0 +1,12 @@
+{
+    "name": "GCN Ado Vendo Firmware",
+    "new_install_prompt_erase": true,
+    "builds": [
+      {
+        "chipFamily": "ESP8266",
+        "parts": [
+          { "path": "vendo-firmwares/adofoxwificoinslot-no-fast-blocking.nodemcu.bin", "offset": 0 }
+        ]
+      }
+    ]
+  }
