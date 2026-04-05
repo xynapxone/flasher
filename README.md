@@ -31,3 +31,13 @@ For use in areas:
 - Piglabasan, Bandera
 - Kanaan
 - Libud, Tagbaobo
+
+- 
+## [Kitifi OpenWRT Firmware](https://xynapxone.github.io/flasher/kitifi.html)
+
+
+Current Version: v1.2.0
+
+For use in areas:
+
+-test vendo for now
