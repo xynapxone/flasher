@@ -32,9 +32,8 @@ For use in areas:
 - Kanaan
 - Libud, Tagbaobo
 
-- 
-## [Kitifi OpenWRT Firmware](https://xynapxone.github.io/flasher/kitifi.html)
 
+## [Kitifi OpenWRT Firmware](https://xynapxone.github.io/flasher/kitifi.html)
 
 Current Version: v1.2.0
 
