@@ -1,0 +1,12 @@
+{
+    "name": "GCN Kitifi Vendo Firmware",
+    "new_install_prompt_erase": true,
+    "builds": [
+      {
+        "chipFamily": "ESP8266",
+        "parts": [
+          { "path": "vendo-firmwares/KiTifi-OpenWRT-ESP8266-Wireless.bin", "offset": 0 }
+        ]
+      }
+    ]
+  }
